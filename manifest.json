@@ -1,5 +1,5 @@
 {
-    "id": "gay",
+    "id": "balatro-gay",
     "name": "Gay",
     "version": "0.6.9",
     "description": [
@@ -7,5 +7,6 @@
     ],
     "author": "Kyu & UwUdev",
     "load_before": [],
-    "load_after": []
+    "load_after": [],
+    "commands": []
 }
